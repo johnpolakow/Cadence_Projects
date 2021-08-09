@@ -1,0 +1,114 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S019 (3960720)  [7/14/2021]-[08/09/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\rt1064_breakout.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    ("Allegro Netlist Input Board File"
+       "c:\users\poppy\documents\cadence\boards\rt1064\capture\rt1064\allegro\rt1064_brkout_new_mem_layout_6layer.brd")
+    ("Allegro Netlist Output Board File" ".\allegro\rt1064_breakout.brd"))
+  (Folder "Layout"
+    (File ".\allegro\rt1064_breakout.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_breakout.brd")
+      (InputBoard ".\rt1064\allegro\rt1064_brkout_new_mem_layout_6layer.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1"))
+    (File ".\allegro\rt1064_brkout_new_mem_layout_6layer.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_brkout_new_mem_layout_6layer.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som - copy.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som - copy.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som - copy - copy.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som - copy - copy.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_brkout_new_mem_layout_6layer - copy.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_brkout_new_mem_layout_6layer - copy.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0"))
+    (File ".\allegro\rt1064_som .brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\rt1064_som .brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "0")))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT1064\CAPTURE\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT1064\CAPTURE\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\BOARDS\RT1064\CAPTURE\allegro\eco.txt")))
+  (PartMRUSelector
+    (GND
+      (LibraryName
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\CAPTURE\HOME_LIBRARY.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\poppy\Documents\Cadence\Libraries\Github\Project\rt1064_breakout.dsn")
+      (Path "Design Resources"
+         "C:\Users\poppy\Documents\Cadence\Libraries\Github\Project\rt1064_breakout.dsn"
+         "SCHEMATIC1")
+      (Path "Layout")
+      (Path "Logs")
+      (Select "Design Resources"
+         "C:\Users\poppy\Documents\Cadence\Libraries\Github\Project\rt1064_breakout.dsn"
+         "SCHEMATIC1" "01_Power_Diagram"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 377 0 578"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 954 24 596")
+        (Scroll "-105 -4")
+        (Zoom "35")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\POPPY\DOCUMENTS\CADENCE\LIBRARIES\GITHUB\PROJECT\RT1064_BREAKOUT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01_Power_Diagram")))
+  (MPSSessionName "poppy")
+  (ISPCBBASICLICENSE "false"))
