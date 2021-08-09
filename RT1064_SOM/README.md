@@ -3,8 +3,8 @@ SOM Board
 See pics below of layout and render
 
    
-![](/img/SOM.png)   
+![layout](/img/SOM.png)   
     
-![Front:](/img/SOM_front.png)   
+![Front](/img/SOM_front.png)   
    
-![Back:](/img/SOM_back.png)     
+![Back](/img/SOM_back.png)     
